@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App h1{
+  color: lightsalmon;
+}
+.App img{
+  width: 200px;
+  border-radius: 6px !important;
+ box-shadow: 2px 2px 3px #ddd;
+}
+.App button{
+  width: 120px;
+  height: 30px;
+  margin-top: 20px;
+  background-color: #25CCF7;
+  border-radius: 4px;
+  outline: none !important;
+border: none;
+color: white;
+text-shadow: 2px 2px 2px #lightsalmon;
+font-size: 18px;
+}
